@@ -53,7 +53,7 @@ final class Projects extends Component
             'github' => 'https://github.com/codewownl/filament-exact',
             'demo' => null,
             'stars' => 0,
-            'featured' => false,
+            'featured' => true,
         ],
 		[
             'id' => 5,
