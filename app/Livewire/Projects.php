@@ -55,7 +55,7 @@ final class Projects extends Component
             'stars' => 0,
             'featured' => false,
         ],
-		[
+        [
             'id' => 5,
             'num' => '05',
             'name' => 'WOW - Workflow Orchestration Wizard',
