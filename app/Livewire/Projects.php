@@ -55,9 +55,20 @@ final class Projects extends Component
             'stars' => 0,
             'featured' => false,
         ],
-        [
+		[
             'id' => 5,
             'num' => '05',
+            'name' => 'WOW - Workflow Orchestration Wizard',
+            'description' => 'This cli-tool allows developers to start multiple processes (like "npm run dev", "php artisan queue:listen", etc.) in a row, with one simple command.',
+            'tags' => ['Rust', 'CLI', 'Workflow', 'Orchestration'],
+            'github' => 'https://github.com/Jessedev1/wow',
+            'demo' => null,
+            'stars' => 0,
+            'featured' => false,
+        ],
+        [
+            'id' => 6,
+            'num' => '06',
             'name' => 'Jessedev.com - Portfolio website',
             'description' => 'This website is a portfolio of my projects and skills. It is built with Laravel, Livewire, Tailwind CSS and Alpine.js.',
             'tags' => ['Laravel', 'Livewire', 'Tailwind CSS', 'Alpine.js', 'Vite'],
